@@ -1,6 +1,6 @@
 # OOPS Notes
   
-## Index
+## Index 
 
 1. [Unit–2: Classes and Objects](#initializing-class-objects-with-constructors)
 2. [Unit-3: Polymorphism](#unit-3-polymorphism)
